@@ -2,6 +2,6 @@ stakeholder_id,name_or_role,organization,interest,influence,attitude,strategy,ow
 ST-01,Представник навчальної частини,Академія,high,high,supporter,manage_closely,PM
 ST-02,Представник студентського самоврядування,Студентське самоврядування,high,low,supporter,keep_informed,UX
 ST-03,Відповідальний за експорт розкладу,Навчальна частина,low,high,neutral,keep_satisfied,BA
-ST-04,Адміністратор акаунтів академії,Адміністрація академії,high,high,blocker,manage_closely,PM
+ST-04,Адміністратор акаунтів академії,Адміністрація академії,low,high,blocker,keep_satisfied,PM
 ST-05,Студенти академії,Студенти,high,low,supporter,keep_informed,UX
 ST-06,Викладачі академії,Викладацький склад,high,low,neutral,keep_informed,BA
