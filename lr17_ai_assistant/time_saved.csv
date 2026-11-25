@@ -1,1 +1,2 @@
 case_id,task,basis,minutes_manual,minutes_ai,minutes_review,minutes_saved,how_measured
+TS-01,Класифікація 14 рядків нотаток на завдання рішення та відкриті питання,Однаковий обсяг 14 рядків,25,12,8,5,Оцінка часу виконання вручну та з використанням AI
