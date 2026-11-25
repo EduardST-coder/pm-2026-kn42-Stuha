@@ -10,3 +10,4 @@ ST-08,Business Analyst (BA),Команда проєкту,high,medium,supporter,
 ST-09,Developer (Dev),Команда проєкту,high,medium,supporter,keep_informed,Dev
 ST-10,QA Engineer (QA),Команда проєкту,high,medium,supporter,keep_informed,QA
 ST-11,UX Designer (UX),Команда проєкту,high,medium,supporter,keep_informed,UX
+ST-12,Представник служби інформаційної безпеки,Служба інформаційної безпеки академії,high,high,neutral,manage_closely,PM
