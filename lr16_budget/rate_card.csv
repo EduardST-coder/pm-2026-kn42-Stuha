@@ -1,1 +1,6 @@
 role,fte,hours,rate,source,note
+PM,0.5,280,560,https://jobs.dou.ua/salaries/,"Оцінна погодинна ставка керівника проєкту"
+BA,0.5,280,490,https://jobs.dou.ua/salaries/,"Оцінна погодинна ставка бізнес-аналітика"
+Dev,1.0,560,450,https://jobs.dou.ua/salaries/,"Оцінна погодинна ставка розробника"
+QA,0.5,280,390,https://jobs.dou.ua/salaries/,"Оцінна погодинна ставка тестувальника"
+UX,0.5,280,460,https://jobs.dou.ua/salaries/,"Оцінна погодинна ставка UX-дизайнера"
