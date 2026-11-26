@@ -6,8 +6,8 @@ ST-04,Адміністратор акаунтів академії,Адміні�
 ST-05,Студенти академії,Студенти,high,low,supporter,keep_informed,UX
 ST-06,Викладачі академії,Викладацький склад,high,low,neutral,keep_informed,BA
 ST-07,Project Manager (PM),Команда проєкту,high,high,supporter,manage_closely,PM
-ST-08,Business Analyst (BA),Команда проєкту,high,medium,supporter,keep_informed,BA
-ST-09,Developer (Dev),Команда проєкту,high,medium,supporter,keep_informed,Dev
-ST-10,QA Engineer (QA),Команда проєкту,high,medium,supporter,keep_informed,QA
-ST-11,UX Designer (UX),Команда проєкту,high,medium,supporter,keep_informed,UX
+ST-08,Business Analyst (BA),Команда проєкту,high,high,supporter,keep_informed,BA
+ST-09,Developer (Dev),Команда проєкту,high,high,supporter,keep_informed,Dev
+ST-10,QA Engineer (QA),Команда проєкту,high,high,supporter,keep_informed,QA
+ST-11,UX Designer (UX),Команда проєкту,high,high,supporter,keep_informed,UX
 ST-12,Представник служби інформаційної безпеки,Служба інформаційної безпеки академії,high,high,neutral,manage_closely,PM
